@@ -1,16 +1,44 @@
-### Hi there 👋
+# Adolfo Esteban Alvarez Pacheco 
+<p>
+  <em>
+  Student in Computer Systems Engineering at <strong>Instituto Tecnológico de Mérida</strong>&nbsp&nbsp&nbsp&nbsp<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
+ </em>
+</p>
 
-<!--
-**alvarez98/alvarez98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## Programming Languages / Frameworks :computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Know/Using
+
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="js logo" width="70">](https://nodejs.org/es/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="40">]() |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="50">](https://www.python.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="cpp logo" width="40">](https://isocpp.org/)  | [<img src="https://miro.medium.com/max/600/1*FEE98iWinlZBYkxBAG8MvA.png" alt="bash logo" width="50">](https://www.gnu.org/software/bash/) 
+|---|---|---|---|---|---|
+
+- Learning
+
+| [<img src="https://lh3.googleusercontent.com/proxy/Z0d7AhKY0Z94Mn7wjVnrhM1BW6PWgBFUmzXTIdbFeLWFLGs9zvx2jxgCeOf_OVushLdWleE2_NZVppi67QV52W_0AI5_Y3BYP9JlTALrGpK9J4b3ZOU" alt="go logo" width="40">](https://vuejs.org/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png" alt="go logo" width="50">](https://golang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="40">](https://www.rust-lang.org/)|
+|---|---|---|
+
+<br>
+
+## Tools and other Tecnologies :hammer_and_wrench:	
+
+- Know/Using
+
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="40">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="40">](https://code.visualstudio.com/) | [<img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="docker logo" width="40">](https://www.docker.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" alt="git logo" width="40">](https://graphql.org/)   | many more...
+|---|---|---|---|---|
+
+<br>
+
+- Learning
+
+| [<img src="https://www.albertobascones.es/wp-content/uploads/2019/11/prod-art-aws-600-width-1200.png" alt="aws logo" width="80">](https://aws.amazon.com/) | many more...
+|---|---|
+
+<br>
+<h3>Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3>
+
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Esteban08240870?s=09) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adolfo-esteban-%C3%A1lvarez-pacheco-6b3a21192/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/estebanalvarezpacheco/)  [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://github.com/alvarez98?tab=repositories) [<img src ="https://img.shields.io/badge/-Outlook-%231DA1F2?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:adolfo_alvarez-p@outlook.es">](https://github.com/alvarez98?tab=repositories) 
+
+<br>
+<img align="center" alt="alvarez98's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alvarez98&show_icons=true&hide_border=true&theme=dark" />
