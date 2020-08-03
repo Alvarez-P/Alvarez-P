@@ -29,7 +29,7 @@ const Profile = {
 
 - Learning
 
-| [<img src="https://lh3.googleusercontent.com/proxy/Z0d7AhKY0Z94Mn7wjVnrhM1BW6PWgBFUmzXTIdbFeLWFLGs9zvx2jxgCeOf_OVushLdWleE2_NZVppi67QV52W_0AI5_Y3BYP9JlTALrGpK9J4b3ZOU" alt="vue logo" width="40">](https://vuejs.org/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png" alt="go logo" width="50">](https://golang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="40">](https://www.rust-lang.org/)|
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" alt="vue logo" width="40">](https://vuejs.org/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png" alt="go logo" width="50">](https://golang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="40">](https://www.rust-lang.org/)|
 |---|---|---|
 
 <br>
@@ -54,7 +54,7 @@ const Profile = {
 
 - Know/Using
 
-| [<img src="https://i.dlpng.com/static/png/468328_preview.png" alt="mongo logo" width="50">](https://www.mongodb.com/es) |  [<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgres logo" width="60">](https://www.postgresql.org/) | [<img src="https://lh3.googleusercontent.com/proxy/87lZx7cwagAD44QQ-boSqBoKwvuLL6fIKhhApIgcI-mRsUEqYbcULmf33e71zG_91MFanNkBBhMPgdrhjd1dy87w2Zqct80LseH4lgwN3tXQHQLz2Hw" alt="mysql logo" width="60">](https://www.mysql.com/)  | [<img src="https://lh3.googleusercontent.com/proxy/jMo-rK_RnSLIsi51pmFfqSDB0JifU_NeXQr7df4djTwdH1sdKoRzQ-hVQRQDtJvylnyxcMk3O1EjKzwjLgkR9i4u4pI5xFlbx9Ga_WvTJHlE-zTDX60" alt="sqlite logo" width="70">](https://www.sqlite.org/index.html) |  [<img src="https://www.martechforum.com/wp-content/uploads/2015/08/AmazonDynamoDB.png" alt="dynamodb logo" width="60">](https://aws.amazon.com/es/dynamodb/)   |
+| [<img src="https://i.dlpng.com/static/png/468328_preview.png" alt="mongo logo" width="50">](https://www.mongodb.com/es) |  [<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgres logo" width="60">](https://www.postgresql.org/) | [<img src="https://i0.wp.com/www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png?resize=600%2C400&ssl=1" alt="mysql logo" width="80">](https://www.mysql.com/)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" alt="sqlite logo" width="70">](https://www.sqlite.org/index.html) |  [<img src="https://www.martechforum.com/wp-content/uploads/2015/08/AmazonDynamoDB.png" alt="dynamodb logo" width="60">](https://aws.amazon.com/es/dynamodb/)   |
 |---|---|---|---|---|
 
 <br>
