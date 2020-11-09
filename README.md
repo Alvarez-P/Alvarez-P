@@ -45,7 +45,7 @@ const Profile = {
 
 - Learning
 
-| [<img src="https://www.albertobascones.es/wp-content/uploads/2019/11/prod-art-aws-600-width-1200.png" alt="aws logo" width="80">](https://aws.amazon.com/) | [<img src="https://seeklogo.com/images/S/serverless-logo-314C5E0CB4-seeklogo.com.png" alt="sls logo" width="80">](https://www.serverless.com/) | many more...
+| [<img src="https://www.albertobascones.es/wp-content/uploads/2019/11/prod-art-aws-600-width-1200.png" alt="aws logo" width="80">](https://aws.amazon.com/) | [<img src="https://seeklogo.com/images/S/serverless-logo-314C5E0CB4-seeklogo.com.png" alt="sls logo" width="50">](https://www.serverless.com/) | many more...
 |---|---|---|
 
 <br>
