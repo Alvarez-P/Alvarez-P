@@ -29,8 +29,8 @@ const Profile = {
 
 - Learning
 
-| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" alt="vue logo" width="40">](https://vuejs.org/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png" alt="go logo" width="50">](https://golang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="40">](https://www.rust-lang.org/)|
-|---|---|---|
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" alt="vue logo" width="40">](https://vuejs.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react logo" width="50">](https://es.reactjs.org/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png" alt="go logo" width="50">](https://golang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="40">](https://www.rust-lang.org/)|
+|---|---|---|---|
 
 <br>
 
@@ -45,8 +45,8 @@ const Profile = {
 
 - Learning
 
-| [<img src="https://www.albertobascones.es/wp-content/uploads/2019/11/prod-art-aws-600-width-1200.png" alt="aws logo" width="80">](https://aws.amazon.com/) | many more...
-|---|---|
+| [<img src="https://www.albertobascones.es/wp-content/uploads/2019/11/prod-art-aws-600-width-1200.png" alt="aws logo" width="80">](https://aws.amazon.com/) | [<img src="https://seeklogo.com/images/S/serverless-logo-314C5E0CB4-seeklogo.com.png" alt="sls logo" width="80">](https://www.serverless.com/) | many more...
+|---|---|---|
 
 <br>
 
