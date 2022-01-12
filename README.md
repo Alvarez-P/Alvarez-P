@@ -11,7 +11,7 @@
 const Profile = {
     name: "Adolfo Esteban Alvarez Pacheco",
     activities: {
-        Derby: "NodeJS Backend Developer",
+        Banregio: "NodeJS Backend Developer",
         AAAIMX: "Advisor",
         DISOFT: "Mentor"
     },
