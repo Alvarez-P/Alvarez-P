@@ -64,7 +64,7 @@ const Profile = {
 
 - Know/Using
 
-| [<img src="https://assets.stickpng.com/images/58482ee4cef1014c0b5e4a75.png" alt="sequelize logo" width="40">]() |  [<img src="https://3987944058-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-Lgyno4NC7rhy49BAEjN%2F-Lh2uMF0SeRmgQ9ESrbj%2F-Lh3BNps2alvubBYGzN1%2FScreen%20Shot%202019-06-10%20at%208.40.12%20PM.png?alt=media&token=b33b7f94-657f-4c88-b55c-8cbb586dfdea" alt="mongoose logo" width="120">]() | [<img src="https://avatars.githubusercontent.com/u/20165699?s=280&v=4" alt="dynamodb logo" width="60">]() | [<img src="https://cdn.cookielaw.org/logos/028e799e-5bb4-4f89-9ce8-1718d42d344c/22c2e2c0-3df0-4958-8672-1194370ee230/542a9b3e-88eb-4f84-95fd-b19e01352169/Logo-Prisma.png" alt="mysql logo" width="120">]() |
+| [<img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" alt="sequelize logo" width="40">]() |  [<img src="https://3987944058-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-Lgyno4NC7rhy49BAEjN%2F-Lh2uMF0SeRmgQ9ESrbj%2F-Lh3BNps2alvubBYGzN1%2FScreen%20Shot%202019-06-10%20at%208.40.12%20PM.png?alt=media&token=b33b7f94-657f-4c88-b55c-8cbb586dfdea" alt="mongoose logo" width="120">]() | [<img src="https://avatars.githubusercontent.com/u/20165699?s=280&v=4" alt="dynamodb logo" width="60">]() | [<img src="https://cdn.cookielaw.org/logos/028e799e-5bb4-4f89-9ce8-1718d42d344c/22c2e2c0-3df0-4958-8672-1194370ee230/542a9b3e-88eb-4f84-95fd-b19e01352169/Logo-Prisma.png" alt="mysql logo" width="120">]() |
 |:---:|:---:|:---:|:---:|
 
 <br>
