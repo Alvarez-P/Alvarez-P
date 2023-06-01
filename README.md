@@ -1,7 +1,7 @@
 # Adolfo Esteban Alvarez Pacheco 
 <p>
   <em>
-  Student in Computer Systems Engineering at <strong>Instituto Tecnológico de Mérida</strong>&nbsp&nbsp&nbsp&nbsp<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
+  Computer Systems Engineer graduated from <strong>Instituto Tecnológico de Mérida</strong>&nbsp&nbsp&nbsp&nbsp<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
  </em>
 </p>
 
