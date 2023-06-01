@@ -58,6 +58,7 @@ const Profile = {
 | [<img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-Transparent.png" alt="mongo logo" width="60">]() |  [<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgres logo" width="60">]() | [<img src="https://www.martechforum.com/wp-content/uploads/2015/08/AmazonDynamoDB.png" alt="dynamodb logo" width="60">]() | [<img src="https://i0.wp.com/www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png?resize=600%2C400&ssl=1" alt="mysql logo" width="80">]()  | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" alt="sqlite logo" width="70">]() |
 |:---:|:---:|:---:|:---:|:---:|
 
+<br>
 
 ## ORM's :shield:	
 
