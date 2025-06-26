@@ -29,7 +29,7 @@ const Profile = {
 
 - Learning
 
-| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react logo" width="50">]() | [<img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="nextjs logo" width="60">]() | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" alt="vue logo" width="40">]() | many more...| 
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react logo" width="50">]() | [<img src="https://img.icons8.com/?size=512&id=yUdJlcKanVbh&format=png" alt="nextjs logo" width="60">]() | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" alt="vue logo" width="40">]() | many more...| 
 |:---:|:---:|:---:|:---:|
 
 <br>
@@ -38,16 +38,15 @@ const Profile = {
 
 - Know/Using
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="40">]() | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="40">]() | [<img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="docker logo" width="50">]() | [<img src="https://gitlab.developers.cam.ac.uk/uploads/-/system/project/avatar/4542/compose.png" alt="docker logo" width="50">]() | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" alt="graphql logo" width="40">]()  | [<img src="https://www.albertobascones.es/wp-content/uploads/2019/11/prod-art-aws-600-width-1200.png" alt="aws logo" width="80">]() |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| [<img src="https://seeklogo.com/images/S/serverless-logo-314C5E0CB4-seeklogo.com.png" alt="sls logo" width="40">]() | **many more...**
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="40">]() | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="40">]() | [<img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="docker logo" width="50">]() | [<img src="https://gitlab.developers.cam.ac.uk/uploads/-/system/project/avatar/4542/compose.png" alt="docker logo" width="50">]() | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" alt="graphql logo" width="40">]()  | [<img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" alt="aws logo" width="80">]() | [<img src="https://brandeps.com/icon-download/S/Serverless-icon-01.png" alt="sls logo" width="40">]() | **many more...** |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 <br>
 
 - Learning
 
-| [<img src="https://www.returngis.net/wp-content/uploads/2020/05/nginx.png" alt="aws logo" width="50">]() | [<img src="https://seeklogo.com/images/T/trpc-logo-741E01B855-seeklogo.com.png" alt="sls logo" width="40">]()  | many more...
-|:---:|:---:|:---:|
+| [<img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" alt="redis logo" width="40">]() | [<img src="https://www.returngis.net/wp-content/uploads/2020/05/nginx.png" alt="aws logo" width="50">]() | [<img src="https://trpc.io/img/logo-text-black.svg" alt="trpc logo" width="70">]() | [<img src="https://cdn.iconscout.com/icon/free/png-256/free-kafka-icon-download-in-svg-png-gif-file-formats--logo-brand-world-logos-vol-1-pack-icons-282292.png" alt="kafka logo" width="40">]() | many more...
+|:---:|:---:|:---:|:---:|:---:|
 
 <br>
 
@@ -64,7 +63,7 @@ const Profile = {
 
 - Know/Using
 
-| [<img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" alt="sequelize logo" width="40">]() |  [<img src="https://3987944058-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-Lgyno4NC7rhy49BAEjN%2F-Lh2uMF0SeRmgQ9ESrbj%2F-Lh3BNps2alvubBYGzN1%2FScreen%20Shot%202019-06-10%20at%208.40.12%20PM.png?alt=media&token=b33b7f94-657f-4c88-b55c-8cbb586dfdea" alt="mongoose logo" width="120">]() | [<img src="https://avatars.githubusercontent.com/u/20165699?s=280&v=4" alt="dynamodb logo" width="60">]() | [<img src="https://cdn.cookielaw.org/logos/028e799e-5bb4-4f89-9ce8-1718d42d344c/22c2e2c0-3df0-4958-8672-1194370ee230/542a9b3e-88eb-4f84-95fd-b19e01352169/Logo-Prisma.png" alt="mysql logo" width="120">]() |
+| [<img src="https://cdn.cookielaw.org/logos/028e799e-5bb4-4f89-9ce8-1718d42d344c/22c2e2c0-3df0-4958-8672-1194370ee230/542a9b3e-88eb-4f84-95fd-b19e01352169/Logo-Prisma.png" alt="prisma logo" width="120">]() | [<img src="https://avatars.githubusercontent.com/u/20165699?s=280&v=4" alt="dynamodb logo" width="60">]() | [<img src="https://cdn.freebiesupply.com/logos/large/2x/sequelize-logo-png-transparent.png" alt="sequelize logo" width="40">]() |  [<img src="https://3987944058-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-Lgyno4NC7rhy49BAEjN%2F-Lh2uMF0SeRmgQ9ESrbj%2F-Lh3BNps2alvubBYGzN1%2FScreen%20Shot%202019-06-10%20at%208.40.12%20PM.png?alt=media&token=b33b7f94-657f-4c88-b55c-8cbb586dfdea" alt="mongoose logo" width="120">]() | 
 |:---:|:---:|:---:|:---:|
 
 <br>
