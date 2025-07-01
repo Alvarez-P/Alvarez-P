@@ -24,12 +24,13 @@ const Profile = {
 
 - Know/Using
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="40">]()  | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="node logo" width="70">]()  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="40">]() |  [<img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs logo" width="40">]() | [<img src="https://kinsta.com/wp-content/uploads/2022/04/express-1.png" alt="express logo" width="100">]() | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="50">]() | [<img src="https://miro.medium.com/max/600/1*FEE98iWinlZBYkxBAG8MvA.png" alt="bash logo" width="50">]() | 
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="40">]() | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="node logo" width="70">]() | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="40">]() | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="50">]() | [<img src="https://miro.medium.com/max/600/1*FEE98iWinlZBYkxBAG8MvA.png" alt="bash logo" width="50">]() | [<img src="https://manual.uberspace.de/_images/logo_deno.png" alt="deno logo" width="50">]() |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| [<img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs logo" width="40">]() | [<img src="https://kinsta.com/wp-content/uploads/2022/04/express-1.png" alt="express logo" width="100">]() | [<img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/hono-6ge6rolcrcsqnvk7r685s.png/hono-lni310gpnzm7h0sumu9xrk.png?_a=DATAdtAAZAA0" alt="hono logo" width="50">]()  | [<img src="https://oakserver.org/oak_logo.svg?__frsh_c=6ccb8f389a5d8534f54e00d00f731f6c6dc69c61" alt="oak logo" width="50">]() | [<img src="https://pbs.twimg.com/media/CNNIG_dVAAA42qb.png" alt="restify logo" width="80">]() | **many more...** | 
 
 - Learning
 
-| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react logo" width="50">]() | [<img src="https://img.icons8.com/?size=512&id=yUdJlcKanVbh&format=png" alt="nextjs logo" width="60">]() | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" alt="vue logo" width="40">]() | many more...| 
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react logo" width="50">]() | [<img src="https://img.icons8.com/?size=512&id=yUdJlcKanVbh&format=png" alt="nextjs logo" width="60">]() | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" alt="vue logo" width="40">]() | **many more...** | 
 |:---:|:---:|:---:|:---:|
 
 <br>
@@ -38,8 +39,8 @@ const Profile = {
 
 - Know/Using
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="40">]() | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="40">]() | [<img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="docker logo" width="50">]() | [<img src="https://gitlab.developers.cam.ac.uk/uploads/-/system/project/avatar/4542/compose.png" alt="docker logo" width="50">]() | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" alt="graphql logo" width="40">]()  | [<img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" alt="aws logo" width="80">]() | [<img src="https://brandeps.com/icon-download/S/Serverless-icon-01.png" alt="sls logo" width="40">]() | **many more...** |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="40">]() | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="40">]() | [<img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="docker compose logo" width="50">]() | [<img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" alt="aws logo" width="80">]() | [<img src="https://gitlab.developers.cam.ac.uk/uploads/-/system/project/avatar/4542/compose.png" alt="docker logo" width="50">]() | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" alt="graphql logo" width="40">]()  | [<img src="https://brandeps.com/icon-download/S/Serverless-icon-01.png" alt="sls logo" width="40">]() | [<img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="jest logo" width="40">]() | **many more...** |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 <br>
 
@@ -54,7 +55,7 @@ const Profile = {
 
 - Know/Using
 
-| [<img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-Transparent.png" alt="mongo logo" width="60">]() |  [<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgres logo" width="60">]() | [<img src="https://www.martechforum.com/wp-content/uploads/2015/08/AmazonDynamoDB.png" alt="dynamodb logo" width="60">]() | [<img src="https://i0.wp.com/www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png?resize=600%2C400&ssl=1" alt="mysql logo" width="80">]()  | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" alt="sqlite logo" width="70">]() |
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgres logo" width="60">]() | [<img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-Transparent.png" alt="mongo logo" width="60">]() | [<img src="https://www.martechforum.com/wp-content/uploads/2015/08/AmazonDynamoDB.png" alt="dynamodb logo" width="60">]() | [<img src="https://i0.wp.com/www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png?resize=600%2C400&ssl=1" alt="mysql logo" width="80">]()  | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" alt="sqlite logo" width="70">]() |
 |:---:|:---:|:---:|:---:|:---:|
 
 <br>
