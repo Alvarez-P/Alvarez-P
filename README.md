@@ -80,11 +80,6 @@ AI Tooling:    Claude Code, OpenCode, Copilot, n8n, SDD
 
 <div align="center">
 
-### 📊 Rachas
-
-<img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Alvarez-P&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-
----
 
 ### 🔗 Conecta conmigo
 
