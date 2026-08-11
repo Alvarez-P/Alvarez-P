@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 Sobre mí
 
 Ingeniero en Sistemas Computacionales con **6+ años de experiencia** especializado en **backend con Node.js, TypeScript y arquitecturas cloud sobre AWS**. Diseño soluciones escalables antes de escribir código e integro IA en mi flujo de desarrollo. He construido plataformas para telecomunicaciones, hotelería, logística, educación y servicios públicos.
 
@@ -31,7 +31,7 @@ Ingeniero en Sistemas Computacionales con **6+ años de experiencia** especializ
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tecnologías
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" title="TypeScript"/>
@@ -80,8 +80,9 @@ AI Tooling:    Claude Code, OpenCode, Copilot, n8n, SDD
 
 <div align="center">
 
-### 📊 GitHub Stats
-<img alt="Alvarez-P's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alvarez-P&show_icons=true&hide_border=true&theme=dark&count_private=true" />
+### 📊 Rachas
+
+<img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Alvarez-P&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
 ---
 
